@@ -1,2 +1,2 @@
 # mini-react
-实现最简 react 模型( Help you learn more efficiently react source code )
+A simple react reactive model to help you think like react
